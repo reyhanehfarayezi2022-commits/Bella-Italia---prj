@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(248, 118, 25);
+    color: darkred;
+    text-align: center;
+}
+.t1{
+    letter-spacing: 5px;
+}
+img{
+    border: 1px solid;
+    border-radius: 25%;
+}
+.t2{
+    font-size: 35px;
+    text-shadow: 3px 3px 3px yellow;
+}
+#border1{
+    border: 5px solid yellowgreen;
+    box-shadow: 3px 3px 3px gold;
+}
+
+p{
+    font-size: 30px;
+}
+
+.t3{ 
+    text-decoration-line: none;
+    text-shadow: 3px 3px 3px gold;
+    color: black;
+    box-shadow: 3px 3px 3px greenyellow;
+    border: 5px solid orangered;
+}
+
+input , label , select{
+    font-size: 30px;
+    background-color: orange;
+    text-shadow: 3px 3px 3px greenyellow;
+}

@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    background-color: olive;
+    color: darkred;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px gold;
+}
+.t1{
+    color: black;
+}
+table, th, tr{
+    padding: 10px;
+    border: 5px solid black;
+    box-shadow: 3px 3px 3px darkorange;
+}
+
+.tbc{
+    display: flex;
+    justify-content: center;
+    
+}
+.sub1{
+    background-color: yellow;
+    color: black;
+}
